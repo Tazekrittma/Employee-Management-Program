@@ -108,8 +108,7 @@ class Program
             string reportsTo = Console.ReadLine();
 
             employees.Add(new Employee(name, title, reportsTo));
-            orgChart(employees);
-
+            
             Console.Write("\nAdd another employee? (y/n): ");
             response = Console.ReadLine().ToLower();
         }
