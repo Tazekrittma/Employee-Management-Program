@@ -30,3 +30,6 @@ addEmployee(employees)
 orgChart(employees)
 
 You can run these tests by opening the Test Explorer window in Visual Studio and clicking "Run All".
+
+## Credits
+This Hangman game was developed by Massinissa TAZEKRITT.
